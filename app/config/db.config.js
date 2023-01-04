@@ -1,7 +1,7 @@
 module.exports = {
-    HOST: "localhost",
-    USER: "aswin",
-    PASSWORD: "aswin",
+    HOST: "mysqlaswin.mysql.database.azure.com",
+    USER: "mysql",
+    PASSWORD: "Aswin@2001",
     DB: "esd"
   };
   /*
